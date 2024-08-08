@@ -1,0 +1,202 @@
+﻿  Creditos4.cpp
+  Ganaste.cpp
+  Inicio2.cpp
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Ambulancia.h(21,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Ambulancia.h(21,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Ambulancia.h(69,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Ambulancia.h(69,58): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien1.h(21,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien1.h(21,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien1.h(38,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien1.h(38,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien2.h(21,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien2.h(21,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien2.h(52,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien2.h(52,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Mecanico.h(18,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Mecanico.h(18,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Mecanico.h(30,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Mecanico.h(30,58): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Medicamento.h(18,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Medicamento.h(18,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Medicamento.h(30,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Medicamento.h(30,58): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Corazon.h(19,57): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Corazon.h(19,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Hospital.h(20,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Hospital.h(20,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Hospital.h(25,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Hospital.h(25,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(74,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(79,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(83,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(88,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(93,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(100,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(110,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(115,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(123,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(134,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(144,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(156,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(176,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(182,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(148,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(160,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Juego.h(28,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Juego.h(213,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Juego.h(213,59): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Juego2.h(28,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Juego2.h(205,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Juego2.h(205,59): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Instrucciones3.cpp
+  Juego.cpp
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Ambulancia.h(21,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Ambulancia.h(21,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Ambulancia.h(69,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Ambulancia.h(69,58): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien1.h(21,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien1.h(21,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien1.h(38,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien1.h(38,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien2.h(21,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien2.h(21,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien2.h(52,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien2.h(52,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Mecanico.h(18,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Mecanico.h(18,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Mecanico.h(30,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Mecanico.h(30,58): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Medicamento.h(18,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Medicamento.h(18,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Medicamento.h(30,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Medicamento.h(30,58): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Corazon.h(19,57): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Corazon.h(19,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Hospital.h(20,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Hospital.h(20,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Hospital.h(25,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Hospital.h(25,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(74,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(79,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(83,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(88,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(93,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(100,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(110,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(115,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(123,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(134,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(144,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(156,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(176,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(182,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(148,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(160,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Juego.h(28,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Juego.h(213,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Juego.h(213,59): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Juego2.cpp
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Ambulancia.h(21,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Ambulancia.h(21,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Ambulancia.h(69,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Ambulancia.h(69,58): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien1.h(21,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien1.h(21,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien1.h(38,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien1.h(38,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien2.h(21,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien2.h(21,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien2.h(52,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien2.h(52,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Mecanico.h(18,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Mecanico.h(18,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Mecanico.h(30,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Mecanico.h(30,58): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Medicamento.h(18,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Medicamento.h(18,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Medicamento.h(30,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Medicamento.h(30,58): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Corazon.h(19,57): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Corazon.h(19,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Hospital.h(20,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Hospital.h(20,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Hospital.h(25,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Hospital.h(25,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(74,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(79,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(83,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(88,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(93,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(100,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(110,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(115,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(123,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(134,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(144,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(156,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(176,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(182,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(148,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(160,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Juego2.h(28,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Juego2.h(205,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Juego2.h(205,59): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Perdiste.cpp
+  Presentacion1.cpp
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Ambulancia.h(21,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Ambulancia.h(21,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Ambulancia.h(69,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Ambulancia.h(69,58): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien1.h(21,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien1.h(21,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien1.h(38,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien1.h(38,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien2.h(21,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien2.h(21,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien2.h(52,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Alien2.h(52,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Mecanico.h(18,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Mecanico.h(18,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Mecanico.h(30,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Mecanico.h(30,58): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Medicamento.h(18,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Medicamento.h(18,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Medicamento.h(30,72): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Medicamento.h(30,58): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Corazon.h(19,57): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Corazon.h(19,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Hospital.h(20,56): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Hospital.h(20,42): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Hospital.h(25,46): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Hospital.h(25,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(74,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(79,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(83,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(88,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(93,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(100,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(110,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(115,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(123,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(134,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(144,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(156,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(176,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(182,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(148,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Controladora.h(160,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Juego.h(28,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Juego.h(213,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Juego.h(213,59): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Juego2.h(28,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Juego2.h(205,81): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Juego2.h(205,59): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  .NETFramework,Version=v4.7.1.AssemblyAttributes.cpp
+  Generando código...
+  Creditos4.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TrabajoFinal.vcxproj -> C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\Debug\TrabajoFinal.exe

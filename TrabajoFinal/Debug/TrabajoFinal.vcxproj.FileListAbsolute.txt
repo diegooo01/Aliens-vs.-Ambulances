@@ -1,0 +1,20 @@
+C:\Users\criol\source\repos\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.vcxproj.AssemblyReference.cache
+C:\Users\criol\source\repos\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.Presentacion1.resources
+C:\Users\criol\source\repos\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.vcxproj.GenerateResource.cache
+C:\Users\criol\source\repos\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.Creditos4.resources
+C:\Users\criol\source\repos\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.Inicio2.resources
+C:\Users\criol\source\repos\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.Instrucciones3.resources
+C:\Users\criol\source\repos\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.Juego.resources
+C:\Users\criol\source\repos\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.Juego2.resources
+C:\Users\criol\source\repos\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.Perdiste.resources
+C:\Users\criol\source\repos\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.Ganaste.resources
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.vcxproj.AssemblyReference.cache
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.Creditos4.resources
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.Ganaste.resources
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.Inicio2.resources
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.Instrucciones3.resources
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.Juego.resources
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.Juego2.resources
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.Perdiste.resources
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.Presentacion1.resources
+C:\Users\criol\OneDrive\Escritorio\copia seguridad\TrabajoFinal\TrabajoFinal\Debug\TrabajoFinal.vcxproj.GenerateResource.cache
